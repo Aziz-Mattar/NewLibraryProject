@@ -1,0 +1,63 @@
+<?php
+return [
+    'author'=>[
+        'id'=>'ID',
+        'name'=>'Name',
+        'Description'=>'Description',
+        'Date of Date'=>'Date of Date',
+        'nationality'=>'Nationality',
+        'image'=>'Image',
+        'save'=>'Save',
+        'edit'=>'Edit',
+        'delete'=>'Delete',
+        'title'=>'Title',
+        ''=>'',
+    ],
+    'book'=>[
+        'id'=>'ID',
+        'name'=>'Name',
+        'description'=>'Description',
+        'Language'=>'Language',
+        'release_year'=>'Release Year',
+        'edition_number'=>'Edition Number',
+        'author'=>'Author',
+        'publisher'=>'Publisher',
+        'category'=>'Category',
+        'image'=>'Image',
+        'pdf'=>'PDF',
+        'pages'=>'Pages',
+        'add'=>'Add',
+        'delete'=>'Delete',
+        'edit'=>'Edit',
+        'title'=>'Title'
+    ],
+    'category'=>[
+        'id'=>'ID',
+        'name'=>'Name',
+        'add'=>'Add',
+        'delete'=>'Delete',
+        'edit'=>'Edit',
+        'title'=>'Title'
+    ],
+    'publisher'=>[
+        'id'=>'ID',
+        'name'=>'Name',
+        'add'=>'Add',
+        'delete'=>'Delete',
+        'edit'=>'Edit',
+        'title'=>'Title',
+        'country'=>'Country',
+        'email'=>'Email',
+        'phone'=>'Phone',
+    ],
+    'sidebar'=>[
+        'Manage Books'=>'Manage Books',
+        'Manage Authors'=>'Manage Authors',
+        'Manage Publishers'=>'Manage Publishers',
+        'Manage Categories'=>'Manage Categories',
+        'Add'=>'Add',
+        'View'=>'View',
+        'Logout'=>'Logout',
+        'dashboard'=>'Dashboard'
+    ],
+];
